@@ -37,11 +37,13 @@ with open('copy.txt','w') as f4:
 ```
 
 ### OUTPUT:
-### Code
+
+
+### Code:
 ![image](https://github.com/drgbhuvaneswari/Copy-File/assets/152077751/baa552c2-6b4c-49c3-9a61-5fe90a6d632f)
-### original file
+### original file:
 ![image](https://github.com/drgbhuvaneswari/Copy-File/assets/152077751/a9a5f20e-85d5-4b3b-baaa-94527c0d1bf3)
-### copied file
+### copied file:
 ![image](https://github.com/drgbhuvaneswari/Copy-File/assets/152077751/8aa96ba5-1b1d-409d-90b3-0f74fa5e1c01)
 
 ## RESULT:
